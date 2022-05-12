@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">Prak. Pemrograman Mobile 1</string>
+    <string name="matkul">Praktikum Pemrograman Mobile 1</string>
+    <string name="prodi">Teknik Informatika</string>
+    <string name="fakultas">Fakultas Teknik</string>
+    <string name="univ">Universitas Pasundan</string>
 </resources>
